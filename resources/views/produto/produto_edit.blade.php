@@ -1,6 +1,7 @@
 <!-- resources/views/produto.index.blade.php -->
  
-@extends('layouts.app')
+@extends('adminlte::page')
+{{--@extends('layouts.app')--}}
  
 @section('title', 'Page Title')
  
